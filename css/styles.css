@@ -72,8 +72,6 @@ body {
     background-color: var(--dark-navyblue);
 }
 .hero-title {
-    
-    font-weight: 700;
     font-size: 56px;
     line-height: 1.07;
     text-align: center;
@@ -129,7 +127,6 @@ body {
 
 }
 .work-title {
-    font-weight: 700;
     font-size: 36px;
     line-height: 1.11;
     text-align: center;
@@ -145,7 +142,6 @@ body {
     background-color: var(--light-cloud);
 }
 .team-title {
-    font-weight: 700;
     font-size: 36px;
     line-height: 1.11;
     text-align: center;
